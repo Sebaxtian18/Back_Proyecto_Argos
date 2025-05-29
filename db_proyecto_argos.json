@@ -1,0 +1,23 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Marcos Casas Oriente",
+            "documento": "123456789",
+            "planta": "Medellin",
+            "usuario": "123456789"
+        }
+    ],
+    "descargues": [
+        {
+            "fecha": "2025/05/05 12:34",
+            "nomUsuario": "Marcos Casas Oriente",
+            "placa": "fnl552",
+            "numRemision": "123456789",
+            "tipoProducto": "Cemento Estructural E-Max",
+            "observaciones": ""
+        }
+    ],
+    "inventarios": [
+        
+    ]
+}
